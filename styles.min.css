@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; }
+header { background-color: #f0f0f0; padding: 1em; }
+header nav ul { list-style: none; margin: 0; padding: 0; }
+header nav ul li { display: inline-block; margin-right: 20px; }
+header nav a { text-decoration: none; color: #333; }
+main { display: flex; flex-direction: column; align-items: center; padding: 2em; }
+section { background-color: #fff; padding: 1em; border: 1px solid #ddd; }
+img { width: 100%; height: auto; }
